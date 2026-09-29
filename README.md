@@ -33,6 +33,6 @@ Understanding what drives a movie's financial success is crucial for production 
 
 ## 📁 Repository Structure
 ```text
-├── Movie_Production_Analysis.ipynb    # Main Jupyter Notebook containing EDA & code
-├── dataset.csv                        # Cleaned dataset used for analysis
+├── Movie_Production_Analysis.ipynb    # Intermediate Level: Movie EDA notebook
+├── Small_Business_Sales_Dataset.csv   # Beginner Level: Operations dataset
 └── README.md                          # Project documentation
